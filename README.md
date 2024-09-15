@@ -43,4 +43,4 @@ A strong foundation in **product thinking** combined with deep technical experti
 
 ### Consulting Services 💼
 
-I observed that many firms excel at building AI proof-of-concepts (POCs) but struggle to scale them into scalable, sustainable businesses. With years of experience in AI product development, the focus is on helping companies bridge this gap. Let’s [discuss](https://www.linkedin.com/in/adumrewal/) how AI can transform your business.
+I observed that many firms excel at building AI proof-of-concepts (POCs) but struggle to scale them into sustainable businesses. With years of experience in AI product development, the focus is on helping companies bridge this gap. Let’s [discuss](https://www.linkedin.com/in/adumrewal/) how AI can transform your business.
