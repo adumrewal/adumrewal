@@ -37,7 +37,7 @@ A strong foundation in **product thinking** combined with deep technical experti
 
 ### Achievements 🏆
 
-- **Lead Engineer** for AI-based **Video** and **Location Surveillance** products at 56 Secure. (200M+ image, 3B+ location data points)
+- **Lead Engineer** for AI-based **Video** and **Location Surveillance** products (200M+ image, 3B+ location data points).
 - Scaled **Microsoft Teams** features to **20M MAU**, leading UI automation and growth.
 - Recognized by **ACM IUI** and **ACM CoDS** for [pioneering research](https://scholar.google.com/citations?user=ikllmgUAAAAJ) in AI/NLP and citizen engagement.
 
