@@ -1,4 +1,4 @@
-# Hi there! I'm Amol Dumrewal 👋
+## Hello | Hola | Bonjour | Hallo | नमस्ते | 你好 | مرحبا 👋
 
 ```
 Builder | Computer Vision | NLP | Deep Learning | AI Systems | Microsoft | IIT Madras
@@ -17,11 +17,16 @@ A strong foundation in **product thinking** combined with deep technical experti
 
 ![Profile Views](https://hits.sh/github.com/adumrewal.svg?style=for-the-badge&extraCount=1616&label=PROFILE+VIEWS&color=red&labelColor=black)
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=adumrewal&show_icons=true&hide=issues,prs,contribs&show=prs_merged_percentage&hide_rank=true&include_all_commits=true&private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adumrewal&layout=compact&theme=radical" />
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=adumrewal&show_icons=true&hide=issues,prs,contribs&show=prs_merged_percentage&hide_rank=true&include_all_commits=true&private=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adumrewal&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ### Contributions 📈
 
