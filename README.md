@@ -9,9 +9,7 @@
 
 ### Summary 🚀
 
-A strong foundation in **product thinking** combined with deep technical expertise drives the creation of AI solutions that generate clear value for customers. The true potential of AI lies in delivering measurable business outcomes, and the focus is always on designing and deploying AI systems that solve complex problems while fostering growth for users and enterprises.
-
-End-to-end ownership is brought to product development, ensuring that cutting-edge AI systems contribute to meaningful improvements for customers. Whether it’s building scalable AI infrastructures or integrating advanced models, the objective remains to deliver impactful and sustainable results that align with business goals.
+A strong foundation in **product thinking** combined with deep technical expertise drives the creation of AI solutions that generate clear value for customers. The true potential of AI lies in delivering measurable business outcomes, and the focus is always on designing and deploying transparent AI systems that solve complex problems while fostering growth for users and enterprises.
 
 ### GitHub Stats 📊
 
@@ -34,7 +32,7 @@ End-to-end ownership is brought to product development, ensuring that cutting-ed
 - [SIFT Image Similarity](https://github.com/adumrewal/SIFTImageSimilarity): An interactive Python implementation of the SIFT algorithm for image similarity. ⭐ **180+ stars**
 - [Deep Image Matting](https://github.com/adumrewal/imageMatting): Simplified deep image matting with TensorFlow and Keras. 🚀 **39+ stars**
 - [Production Python Server](https://github.com/adumrewal/python-production-server): A production-ready server leveraging **Elastic APM**, **Docker**, and **Flask**. 🔧🌎
-- [Adaptive Cards](https://learn.microsoft.com/en-us/adaptive-cards/): Contributed to the development of Adaptive Cards for Microsoft Teams, enabling rich, interactive messaging experiences. Adaptive Cards are an open exchange format enabling developers to exchange UI content in a common and consistent way. ✨ **1.7k+ stars**
+- [Adaptive Cards](https://learn.microsoft.com/en-us/adaptive-cards/): Contributed to the development of Adaptive Cards for Microsoft, enabling rich, interactive messaging experiences. Adaptive Cards are an open exchange format enabling developers to exchange UI content in a common and consistent way. ✨ **1.7k+ stars**
 
 ### Achievements 🏆
 
