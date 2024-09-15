@@ -20,9 +20,6 @@ End-to-end ownership is brought to product development, ensuring that cutting-ed
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=adumrewal&show_icons=true&hide=issues,prs,contribs&show=prs_merged_percentage&hide_rank=true&include_all_commits=true&private=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adumrewal&layout=compact&theme=radical" />
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
 </div>
 
 
