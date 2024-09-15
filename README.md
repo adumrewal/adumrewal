@@ -17,7 +17,7 @@ A strong foundation in **product thinking** combined with deep technical experti
 
 ![Profile Views](https://hits.sh/github.com/adumrewal.svg?style=for-the-badge&extraCount=1616&label=PROFILE+VIEWS&color=red&labelColor=black)
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=adumrewal&show_icons=true&hide=issues,prs,contribs&show=prs_merged_percentage&hide_rank=true&include_all_commits=true&private=true&theme=radical" />
