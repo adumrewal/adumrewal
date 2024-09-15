@@ -1,6 +1,8 @@
 # Hi there! I'm Amol Dumrewal 👋
 
-### Builder | Computer Vision | NLP | Deep Learning | AI Systems | Microsoft | IIT Madras
+```
+Builder | Computer Vision | NLP | Deep Learning | AI Systems | Microsoft | IIT Madras
+```
 
 - 💡 Passionate about building scalable AI systems and translating research into real-world applications.
 - 🌱 I specialize in AI product development from ideation to production, with a focus on customer value.
