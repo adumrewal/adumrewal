@@ -45,8 +45,4 @@ End-to-end ownership is brought to product development, ensuring that cutting-ed
 
 ### Consulting Services 💼
 
-The decision to offer **Generative AI** and **LLM consulting** services came from observing a common challenge. While working on AI products that scaled to millions, it became clear that many startups are great at building proof-of-concepts (POCs) but struggle to translate those into scalable, sustainable businesses. This gap between early innovation and long-term success was something I encountered time and time again.
-
-Having built AI systems from the ground up, and seeing firsthand how the right strategy can transform a POC into a product with real market impact, I realized I could help others bridge the gap. Through consulting, the focus is on guiding startups and enterprises to not only leverage the latest advancements in AI and NLP but also to craft solutions that are scalable, robust, and aligned with business goals.
-
-Whether it's refining AI strategies, deploying scalable NLP systems, or transitioning POCs into fully operational products, the goal is to create meaningful, lasting impact. Let’s [explore](https://www.linkedin.com/in/adumrewal/) how AI can drive value for your business.
+I observed that many firms excel at building AI proof-of-concepts (POCs) but struggle to scale them into scalable, sustainable businesses. With years of experience in AI product development, the focus is on helping companies bridge this gap. Let’s [discuss](https://www.linkedin.com/in/adumrewal/) how AI can transform your business.
