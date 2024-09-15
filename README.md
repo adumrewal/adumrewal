@@ -1,16 +1,55 @@
-### Hi there 👋
+# Hi there! I'm Amol Dumrewal 👋
 
-<!--
-**adumrewal/adumrewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Builder | Computer Vision | NLP | Deep Learning | AI Systems | Microsoft | IIT Madras
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on cutting-edge AI/ML projects, including deep learning, computer vision, and NLP.
+- 💡 Passionate about building scalable AI systems and translating research into real-world applications.
+- 🌱 I specialize in AI product development from ideation to production, with a focus on AI augmentation and automation to produce customer value.
+- 🎓 IIT Madras, CSE | TU München | Microsoft | IBM Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Summary 🚀
+
+A strong foundation in **product thinking** combined with deep technical expertise drives the creation of AI solutions that generate clear value for customers. The true potential of AI lies in delivering measurable business outcomes, and the focus is always on designing and deploying AI systems that solve complex problems while fostering growth for users and enterprises.
+
+End-to-end ownership is brought to product development, ensuring that cutting-edge AI systems contribute to meaningful improvements for customers. Whether it’s building scalable AI infrastructures or integrating advanced models, the objective remains to deliver impactful and sustainable results that align with business goals.
+
+### GitHub Stats 📊
+
+![Profile Views](https://hits.sh/github.com/adumrewal.svg?style=for-the-badge&extraCount=1616&label=PROFILE+VIEWS&color=red&labelColor=black)
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=adumrewal&show_icons=true&hide=issues,prs,contribs&show=prs_merged_percentage&hide_rank=true&include_all_commits=true&private=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adumrewal&layout=compact&theme=radical" />
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+</div>
+
+
+### Contributions 📈
+
+- Over **500 contributions** 🚀 in the past year across **25+ repositories**.
+- Extensive contributions to open-source AI/ML frameworks, including **Hugging Face**, **YOLOv5**, **SIFT Image Similarity**, and **Deep Image Matting**.
+- Led multiple high-impact projects at [56 Secure](https://www.56secure.com/) and [Microsoft](https://www.microsoft.com/en-us/microsoft-teams).
+
+### Highlighted Projects 📋
+
+- [SIFT Image Similarity](https://github.com/adumrewal/SIFTImageSimilarity): An interactive Python implementation of the SIFT algorithm for image similarity. ⭐ **180+ stars**
+- [Deep Image Matting](https://github.com/adumrewal/imageMatting): Simplified deep image matting with TensorFlow and Keras. 🚀 **39+ stars**
+- [Production Python Server](https://github.com/adumrewal/python-production-server): A production-ready server leveraging **Elastic APM**, **Docker**, and **Flask**. 🔧🌎
+- [Adaptive Cards](https://learn.microsoft.com/en-us/adaptive-cards/): Contributed to the development of Adaptive Cards for Microsoft Teams, enabling rich, interactive messaging experiences. Adaptive Cards are an open exchange format enabling developers to exchange UI content in a common and consistent way. ✨ **1.7k+ stars**
+
+### Achievements 🏆
+
+- **Lead Engineer** for AI-based **Video Surveillance** and **Location Surveillance** products at 56 Secure. (200M+ image and 3B+ location data points)
+- Scaled **Microsoft Teams** features to **20M MAU**, leading UI automation and growth.
+- Recognized by **ACM IUI** and **ACM CoDS** for [pioneering research](https://scholar.google.com/citations?user=ikllmgUAAAAJ) in AI/NLP and citizen engagement.
+
+
+### Consulting Services 💼
+
+The decision to offer **Generative AI** and **LLM consulting** services came from observing a common challenge. While working on AI products that scaled to millions, it became clear that many startups are great at building proof-of-concepts (POCs) but struggle to translate those into scalable, sustainable businesses. This gap between early innovation and long-term success was something I encountered time and time again.
+
+Having built AI systems from the ground up, and seeing firsthand how the right strategy can transform a POC into a product with real market impact, I realized I could help others bridge the gap. Through consulting, the focus is on guiding startups and enterprises to not only leverage the latest advancements in AI and NLP but also to craft solutions that are scalable, robust, and aligned with business goals.
+
+Whether it's refining AI strategies, deploying scalable NLP systems, or transitioning POCs into fully operational products, the goal is to create meaningful, lasting impact. Let’s [explore](https://www.linkedin.com/in/adumrewal/) how AI can drive value for your business.
