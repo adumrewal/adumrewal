@@ -2,9 +2,9 @@
 
 ### Builder | Computer Vision | NLP | Deep Learning | AI Systems | Microsoft | IIT Madras
 
-- 🔭 I’m currently working on cutting-edge AI/ML projects, including deep learning, computer vision, and NLP.
 - 💡 Passionate about building scalable AI systems and translating research into real-world applications.
-- 🌱 I specialize in AI product development from ideation to production, with a focus on AI augmentation and automation to produce customer value.
+- 🌱 I specialize in AI product development from ideation to production, with a focus on customer value.
+- 🔭 I’m currently working on cutting-edge AI/ML projects, including Gen AI, deep learning, and computer vision.
 - 🎓 IIT Madras, CSE | TU München | Microsoft | IBM Research
 
 ### Summary 🚀
@@ -24,19 +24,20 @@ A strong foundation in **product thinking** combined with deep technical experti
 ### Contributions 📈
 
 - Over **500 contributions** 🚀 in the past year across **25+ repositories**.
-- Extensive contributions to open-source AI/ML frameworks, including **Hugging Face**, **YOLOv5**, **SIFT Image Similarity**, and **Deep Image Matting**.
+- Open-source projects, including **Hugging Face**, **YOLOv5**, **SIFT Image Similarity**, and **Deep Image Matting**.
 - Led multiple high-impact projects at [56 Secure](https://www.56secure.com/) and [Microsoft](https://www.microsoft.com/en-us/microsoft-teams).
+- Built for the community at [Schmooze: Meme-Based Dating App](https://schmooze.in/) and [CitiCafe](https://research.ibm.com/publications/citicafe-an-interactive-interface-for-citizen-engagement).
 
 ### Highlighted Projects 📋
 
 - [SIFT Image Similarity](https://github.com/adumrewal/SIFTImageSimilarity): An interactive Python implementation of the SIFT algorithm for image similarity. ⭐ **180+ stars**
-- [Deep Image Matting](https://github.com/adumrewal/imageMatting): Simplified deep image matting with TensorFlow and Keras. 🚀 **39+ stars**
+- [Deep Image Matting](https://github.com/adumrewal/imageMatting): Simplified deep image matting training with TensorFlow and Keras. 🚀 **39+ stars**
 - [Production Python Server](https://github.com/adumrewal/python-production-server): A production-ready server leveraging **Elastic APM**, **Docker**, and **Flask**. 🔧🌎
-- [Adaptive Cards](https://learn.microsoft.com/en-us/adaptive-cards/): Contributed to the development of Adaptive Cards for Microsoft, enabling rich, interactive messaging experiences. Adaptive Cards are an open exchange format enabling developers to exchange UI content in a common and consistent way. ✨ **1.7k+ stars**
+- [Adaptive Cards](https://learn.microsoft.com/en-us/adaptive-cards/): Open exchange format enabling developers to exchange consistent UI content. ✨ **1.7k+ stars**
 
 ### Achievements 🏆
 
-- **Lead Engineer** for AI-based **Video Surveillance** and **Location Surveillance** products at 56 Secure. (200M+ image and 3B+ location data points)
+- **Lead Engineer** for AI-based **Video** and **Location Surveillance** products at 56 Secure. (200M+ image, 3B+ location data points)
 - Scaled **Microsoft Teams** features to **20M MAU**, leading UI automation and growth.
 - Recognized by **ACM IUI** and **ACM CoDS** for [pioneering research](https://scholar.google.com/citations?user=ikllmgUAAAAJ) in AI/NLP and citizen engagement.
 
