@@ -41,7 +41,7 @@
 - Recognized by **ACM IUI** and **ACM CoDS** for [pioneering research](https://scholar.google.com/citations?user=ikllmgUAAAAJ) in AI/NLP and citizen engagement.
 
 
-### 💼 Have questions or just want to chat? Feel free to reach out anytime at:
+#### 💼 Have questions or just want to chat? Feel free to reach out anytime at:
 
 - Email: amoldumrewal [at] gmail [dot] com
 - LinkedIn: [Amol Dumrewal](https://www.linkedin.com/in/adumrewal/)
