@@ -1,21 +1,12 @@
-## Hello | Hola | Bonjour | Hallo | नमस्ते | 你好 | مرحبا 👋
+## Hello | Hola | Bonjour | Hallo | नमस्ते | 你好 | مرحبا 🧑‍💻👋
 
-```
-Builder | Computer Vision | NLP | Deep Learning | AI Systems | Microsoft | IIT Madras
-```
-
-- 💡 Passionate about building scalable AI systems and translating research into real-world applications.
-- 🌱 I specialize in AI product development from ideation to production, with a focus on customer value.
-- 🔭 I’m currently working on cutting-edge AI/ML projects, including Gen AI, deep learning, and computer vision.
+- 💡 I'm here to share practical implementations, best practices, and insights from my journey in AI, machine learning, and software engineering.
+- 🔭 I specialize in AI product development from ideation to production, with focus on scalability and customer value.
 - 🎓 IIT Madras, CSE | TU München | Microsoft | IBM Research
-
-### Summary 🚀
-
-A strong foundation in **product thinking** combined with deep technical expertise drives the creation of AI solutions that generate clear value for customers. The true potential of AI lies in delivering measurable business outcomes, and the focus is always on designing and deploying transparent AI systems that solve complex problems while fostering growth for users and enterprises.
 
 ### GitHub Stats 📊
 
-![Profile Views](https://hits.sh/github.com/adumrewal.svg?style=for-the-badge&extraCount=1616&label=PROFILE+VIEWS&color=red&labelColor=black)
+<!-- ![Profile Views](https://hits.sh/github.com/adumrewal.svg?style=for-the-badge&extraCount=1616&label=PROFILE+VIEWS&color=red&labelColor=black) -->
 
 <table border="0">
   <tr>
@@ -41,6 +32,7 @@ A strong foundation in **product thinking** combined with deep technical experti
 - [Deep Image Matting](https://github.com/adumrewal/imageMatting): Simplified deep image matting training with TensorFlow and Keras. 🚀 **39+ stars**
 - [Production Python Server](https://github.com/adumrewal/python-production-server): A production-ready server leveraging **Elastic APM**, **Docker**, and **Flask**. 🔧🌎
 - [Adaptive Cards](https://learn.microsoft.com/en-us/adaptive-cards/): Open exchange format enabling developers to exchange consistent UI content. ✨ **1.7k+ stars**
+- [YoloV5](https://github.com/ultralytics/yolov5): State-of-the-art and most used object detection model with **PyTorch**. ⬇️ **47M+ downloads**
 
 ### Achievements 🏆
 
@@ -49,6 +41,7 @@ A strong foundation in **product thinking** combined with deep technical experti
 - Recognized by **ACM IUI** and **ACM CoDS** for [pioneering research](https://scholar.google.com/citations?user=ikllmgUAAAAJ) in AI/NLP and citizen engagement.
 
 
-### Consulting Services 💼
+### 💼 Have questions or just want to chat? Feel free to reach out anytime at:
 
-I observed that many firms excel at building AI proof-of-concepts (POCs) but struggle to scale them into sustainable businesses. With years of experience in AI product development, the focus is on helping companies bridge this gap. Let’s [discuss](https://www.linkedin.com/in/adumrewal/) how AI can transform your business.
+- Email: amoldumrewal [at] gmail [dot] com
+- LinkedIn: [Amol Dumrewal](https://www.linkedin.com/in/adumrewal/)
