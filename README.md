@@ -29,7 +29,7 @@
 ### Highlighted Projects 📋
 
 - [SIFT Image Similarity](https://github.com/adumrewal/SIFTImageSimilarity): An interactive Python implementation of the SIFT algorithm for image similarity. ⭐ **180+ stars**
-- [Deep Image Matting](https://github.com/adumrewal/imageMatting): Simplified deep image matting training with TensorFlow and Keras. 🚀 **39+ stars**
+- [Deep Image Matting](https://github.com/adumrewal/imageMatting): Simplified deep image matting training with TensorFlow and Keras. 🚀 **40+ stars**
 - [Production Python Server](https://github.com/adumrewal/python-production-server): A production-ready server leveraging **Elastic APM**, **Docker**, and **Flask**. 🔧🌎
 - [Adaptive Cards](https://learn.microsoft.com/en-us/adaptive-cards/): Open exchange format enabling developers to exchange consistent UI content. ✨ **1.7k+ stars**
 - [YoloV5](https://github.com/ultralytics/yolov5): State-of-the-art and most used object detection model with **PyTorch**. ⬇️ **47M+ downloads**
